@@ -1,0 +1,27 @@
+{
+  "name": "liho-react",
+  "version": "1.0.0",
+  "description": "liho devop with reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lecaoquochung/liho-react.git"
+  },
+  "keywords": [
+    "liho",
+    "react"
+  ],
+  "author": "lecaoquochung@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lecaoquochung/liho-react/issues"
+  },
+  "homepage": "https://github.com/lecaoquochung/liho-react#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0"
+  }
+}
